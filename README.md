@@ -4,9 +4,9 @@
 
 ## Installation
 
+Lazy:
 ```
-Plug 'nvim-telescope/telescope.nvim'
-Plug 'sato-s/telescope-rails.nvim'
+{'jackcooperusesvim/telescope-rails.nvim'}
 ```
 
 ## Setup
